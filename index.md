@@ -1,13 +1,13 @@
 # Portfolio
 ---
 
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Using Linear Regression to predict Insurance Charges
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/linear-regression.html)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">This is a project that I pratice to create a predict model in Python. Firstly, I am going to explore the dataset to understand the concept and discover insights hidden in the dataset. Then, I will select variables that effect on the target variable. Lastly, building model by Linear Regression is the most important stage. The final output is a model which can predict the insurance charges based on age, sex, BMI, children, smoker status and region.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/health-insurance.jpg"></center>
 <br>
 
 ---
